@@ -1,0 +1,23 @@
+<svg width="426" height="426" viewBox="0 0 426 426" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_2538_38)">
+<rect width="426" height="426" rx="72" fill="#D8D6CC"/>
+<rect width="97" height="106.5" transform="matrix(-1 0 0 1 426 0)" fill="#C4C2BA"/>
+<rect width="97" height="106.5" transform="matrix(-1 0 0 1 426 106.5)" fill="#5AC8FA"/>
+<rect width="97" height="106.5" transform="matrix(-1 0 0 1 426 213)" fill="#FF9500"/>
+<rect width="97" height="106.5" transform="matrix(-1 0 0 1 426 319.5)" fill="#4CD964"/>
+<rect width="111" height="426" transform="matrix(-1 0 0 1 426 0)" fill="url(#paint0_linear_2538_38)"/>
+<rect width="368" height="426" fill="#D8D6CC"/>
+<path d="M310.097 213C310.097 144.739 254.761 89.4026 186.5 89.4023C118.239 89.4023 62.9023 144.739 62.9023 213C62.9026 281.261 118.239 336.597 186.5 336.597C254.76 336.596 310.096 281.26 310.097 213ZM322.097 213C322.096 287.888 261.388 348.596 186.5 348.597C111.612 348.597 50.9026 287.888 50.9023 213C50.9023 138.112 111.612 77.4023 186.5 77.4023C261.388 77.4026 322.097 138.112 322.097 213Z" fill="#A9A29A"/>
+<ellipse cx="186.499" cy="184.677" rx="45" ry="50" fill="#A9A29A"/>
+<path d="M186.499 257.326C227.796 257.326 263.497 271.991 280.476 293.278C257.806 319.79 224.117 336.597 186.5 336.597C148.883 336.597 115.192 319.79 92.5225 293.277C109.501 271.99 145.203 257.326 186.499 257.326Z" fill="#A9A29A"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_2538_38" x1="34.5818" y1="213" x2="88.9988" y2="213" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D8D6CC" stop-opacity="0"/>
+<stop offset="1"/>
+</linearGradient>
+<clipPath id="clip0_2538_38">
+<rect width="426" height="426" rx="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>
